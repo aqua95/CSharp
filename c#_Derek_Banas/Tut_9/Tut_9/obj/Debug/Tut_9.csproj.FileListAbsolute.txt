@@ -1,0 +1,6 @@
+F:\workspace\C#\Tut_9\Tut_9\obj\Debug\Tut_9.csprojAssemblyReference.cache
+F:\workspace\C#\Tut_9\Tut_9\bin\Debug\Tut_9.exe.config
+F:\workspace\C#\Tut_9\Tut_9\bin\Debug\Tut_9.exe
+F:\workspace\C#\Tut_9\Tut_9\bin\Debug\Tut_9.pdb
+F:\workspace\C#\Tut_9\Tut_9\obj\Debug\Tut_9.exe
+F:\workspace\C#\Tut_9\Tut_9\obj\Debug\Tut_9.pdb

@@ -1,0 +1,6 @@
+F:\workspace\C#\Tut_10_Interface\Tut_10_Interface\obj\Debug\Tut_10_Interface.csprojAssemblyReference.cache
+F:\workspace\C#\Tut_10_Interface\Tut_10_Interface\bin\Debug\Tut_10_Interface.exe.config
+F:\workspace\C#\Tut_10_Interface\Tut_10_Interface\bin\Debug\Tut_10_Interface.exe
+F:\workspace\C#\Tut_10_Interface\Tut_10_Interface\bin\Debug\Tut_10_Interface.pdb
+F:\workspace\C#\Tut_10_Interface\Tut_10_Interface\obj\Debug\Tut_10_Interface.exe
+F:\workspace\C#\Tut_10_Interface\Tut_10_Interface\obj\Debug\Tut_10_Interface.pdb

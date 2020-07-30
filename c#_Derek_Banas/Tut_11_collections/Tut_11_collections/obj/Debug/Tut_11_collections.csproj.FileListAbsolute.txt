@@ -1,0 +1,6 @@
+F:\workspace\C#\Tut_11_collections\Tut_11_collections\bin\Debug\Tut_11_collections.exe.config
+F:\workspace\C#\Tut_11_collections\Tut_11_collections\bin\Debug\Tut_11_collections.exe
+F:\workspace\C#\Tut_11_collections\Tut_11_collections\bin\Debug\Tut_11_collections.pdb
+F:\workspace\C#\Tut_11_collections\Tut_11_collections\obj\Debug\Tut_11_collections.csprojAssemblyReference.cache
+F:\workspace\C#\Tut_11_collections\Tut_11_collections\obj\Debug\Tut_11_collections.exe
+F:\workspace\C#\Tut_11_collections\Tut_11_collections\obj\Debug\Tut_11_collections.pdb

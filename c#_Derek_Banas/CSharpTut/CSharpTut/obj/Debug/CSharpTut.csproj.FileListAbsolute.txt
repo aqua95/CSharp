@@ -1,0 +1,6 @@
+F:\workspace\C#\CSharpTut\CSharpTut\bin\Debug\CSharpTut.exe.config
+F:\workspace\C#\CSharpTut\CSharpTut\bin\Debug\CSharpTut.exe
+F:\workspace\C#\CSharpTut\CSharpTut\bin\Debug\CSharpTut.pdb
+F:\workspace\C#\CSharpTut\CSharpTut\obj\Debug\CSharpTut.csprojAssemblyReference.cache
+F:\workspace\C#\CSharpTut\CSharpTut\obj\Debug\CSharpTut.exe
+F:\workspace\C#\CSharpTut\CSharpTut\obj\Debug\CSharpTut.pdb
