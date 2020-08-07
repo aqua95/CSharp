@@ -1,0 +1,7 @@
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\bin\Debug\Tut5_Classs_Oops.exe.config
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\bin\Debug\Tut5_Classs_Oops.exe
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\bin\Debug\Tut5_Classs_Oops.pdb
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\obj\Debug\Tut5_Classs_Oops.csproj.CoreCompileInputs.cache
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\obj\Debug\Tut5_Classs_Oops.exe
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\obj\Debug\Tut5_Classs_Oops.pdb
+C:\Users\Test\source\repos\Tut5_Classs_Oops\Tut5_Classs_Oops\obj\Debug\Tut5_Classs_Oops.csprojAssemblyReference.cache

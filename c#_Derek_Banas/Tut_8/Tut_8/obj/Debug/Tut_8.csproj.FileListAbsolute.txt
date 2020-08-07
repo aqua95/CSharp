@@ -4,3 +4,10 @@ F:\workspace\C#\Tut_8\Tut_8\bin\Debug\Tut_8.pdb
 F:\workspace\C#\Tut_8\Tut_8\obj\Debug\Tut_8.csprojAssemblyReference.cache
 F:\workspace\C#\Tut_8\Tut_8\obj\Debug\Tut_8.exe
 F:\workspace\C#\Tut_8\Tut_8\obj\Debug\Tut_8.pdb
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\bin\Debug\Tut_8.exe.config
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\bin\Debug\Tut_8.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\bin\Debug\Tut_8.pdb
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\obj\Debug\Tut_8.csprojAssemblyReference.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\obj\Debug\Tut_8.csproj.CoreCompileInputs.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\obj\Debug\Tut_8.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_8\Tut_8\obj\Debug\Tut_8.pdb

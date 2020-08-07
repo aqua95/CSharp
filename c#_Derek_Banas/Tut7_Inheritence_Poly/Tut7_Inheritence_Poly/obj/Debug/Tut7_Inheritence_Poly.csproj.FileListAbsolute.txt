@@ -1,0 +1,7 @@
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\bin\Debug\Tut7_Inheritence_Poly.exe.config
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\bin\Debug\Tut7_Inheritence_Poly.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\bin\Debug\Tut7_Inheritence_Poly.pdb
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\obj\Debug\Tut7_Inheritence_Poly.csprojAssemblyReference.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\obj\Debug\Tut7_Inheritence_Poly.csproj.CoreCompileInputs.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\obj\Debug\Tut7_Inheritence_Poly.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut7_Inheritence_Poly\Tut7_Inheritence_Poly\obj\Debug\Tut7_Inheritence_Poly.pdb

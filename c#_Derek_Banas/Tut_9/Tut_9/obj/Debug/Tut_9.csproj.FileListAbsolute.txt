@@ -4,3 +4,10 @@ F:\workspace\C#\Tut_9\Tut_9\bin\Debug\Tut_9.exe
 F:\workspace\C#\Tut_9\Tut_9\bin\Debug\Tut_9.pdb
 F:\workspace\C#\Tut_9\Tut_9\obj\Debug\Tut_9.exe
 F:\workspace\C#\Tut_9\Tut_9\obj\Debug\Tut_9.pdb
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\bin\Debug\Tut_9.exe.config
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\bin\Debug\Tut_9.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\bin\Debug\Tut_9.pdb
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\obj\Debug\Tut_9.csprojAssemblyReference.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\obj\Debug\Tut_9.csproj.CoreCompileInputs.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\obj\Debug\Tut_9.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut_9\Tut_9\obj\Debug\Tut_9.pdb

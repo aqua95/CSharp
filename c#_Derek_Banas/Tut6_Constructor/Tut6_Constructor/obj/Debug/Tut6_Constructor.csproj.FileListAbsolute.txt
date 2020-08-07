@@ -1,0 +1,7 @@
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\bin\Debug\Tut6_Constructor.exe.config
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\bin\Debug\Tut6_Constructor.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\bin\Debug\Tut6_Constructor.pdb
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\obj\Debug\Tut6_Constructor.csprojAssemblyReference.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\obj\Debug\Tut6_Constructor.csproj.CoreCompileInputs.cache
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\obj\Debug\Tut6_Constructor.exe
+C:\Users\Test\Documents\CSharp-master\c#_Derek_Banas\Tut6_Constructor\Tut6_Constructor\obj\Debug\Tut6_Constructor.pdb
